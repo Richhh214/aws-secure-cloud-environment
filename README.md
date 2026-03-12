@@ -15,6 +15,10 @@ The environment includes:
 - VPC Flow Logs
 - S3 secure storage
 
+## Architecture Diagram
+
+![AWS Architecture](architecture-diagram.png)
+
 ## VPC Architecture
 
 ![VPC](vpc-overview.png)
