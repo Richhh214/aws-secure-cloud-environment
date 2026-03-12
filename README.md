@@ -17,39 +17,39 @@ The environment includes:
 
 ## VPC Architecture
 
-![VPC](screenshots/vpc-overview.png)
+![VPC](vpc-overview.png)
 
 ## Subnet Configuration
 
-![Subnets](screenshots/subnets.png)
+![Subnets](subnets.png)
 
 ## Route Table
 
-![Route Table](screenshots/route-table.png)
+![Route Table](route-table.png)
 
 ## Security Group Rules
 
-![Security Group](screenshots/security-group.png)
+![Security Group](security-group.png)
 
 ## EC2 Instance
 
-![EC2](screenshots/ec2-instance.png)
+![EC2](ec2-instance.png)
 
 ## Web Server Test
 
-![Web Server](screenshots/web-server-test.png)
+![Web Server](web-server-test.png)
 
 ## CloudTrail Monitoring
 
-![CloudTrail](screenshots/cloudtrail-events.png)
+![CloudTrail](cloudtrail-events.png)
 
 ## VPC Flow Logs
 
-![Flow Logs](screenshots/flow-logs.png)
+![Flow Logs](flow-logs.png)
 
 ## S3 Secure Storage
 
-![S3 Bucket](screenshots/s3-bucket.png)
+![S3 Bucket](s3-bucket.png)
 
 ## Security Controls Implemented
 
