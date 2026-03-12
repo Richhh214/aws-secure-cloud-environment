@@ -19,6 +19,20 @@ The environment includes:
 
 ![AWS Architecture](architecture-diagram.png)
 
+## Architecture Overview
+
+This project demonstrates a secure AWS cloud environment built using:
+
+- A custom VPC with segmented public and private subnets
+- An Internet Gateway for controlled internet access
+- Route tables for traffic routing
+- A secure EC2 web server hosted in the public subnet
+- Security groups restricting inbound SSH and HTTP traffic
+- IAM roles providing least-privilege permissions
+- CloudTrail logging for API activity monitoring
+- VPC Flow Logs for network traffic monitoring
+- Secure S3 storage for log retention
+
 ## VPC Architecture
 
 ![VPC](vpc-overview.png)
